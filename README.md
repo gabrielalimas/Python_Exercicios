@@ -1,3 +1,3 @@
 # Python_Exercicios
 Lista de exercícios que estou fazendo no Python (Colab).
-Para acessar a lista de exercícios, que em **Exercicios_Python.ipynb** na lista acima.
+Para acessar as listas de exercícios, clique em **Exercicios_Python.ipynb** e em **Projeto+inicial+_+Python+para+DS.ipynb** na lista acima.
